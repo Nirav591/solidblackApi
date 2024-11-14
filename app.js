@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 // Set the port
-const PORT = 3000;
+const PORT = 3001;
 
 // Define a route for the "Hello World" response
 app.get('/', (req, res) => {
